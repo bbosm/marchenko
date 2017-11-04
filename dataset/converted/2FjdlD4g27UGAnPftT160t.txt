@@ -1,0 +1,194 @@
+
+Exhibit 10.2
+COMMON UNIT PURCHASE AGREEMENT
+THIS COMMON UNIT PURCHASE AGREEMENT (this “Agreement”), dated as of January 4, 2010, is by and between David A. Trott, Ellen Coon, Trustee of the Ellen Coon Living Trust u/a/d 9/9/98, Marcy J. Ford, Trustee of the Marcy Ford Revocable Trust u/a/d 7/12/04, William D. Meagher, Trustee of the William D. Meagher Trust u/a/d 8/24/07 and Jeanne M. Kivi, Trustee of the Jeanne M. Kivi Trust u/a/d 8/24/07 (collectively, “Sellers”), Dolan APC LLC, a Delaware limited liability company (“Buyer”), and, for certain limited purposes set forth in this Agreement, Dolan Media Company, a Delaware corporation (“DM”) and Trott & Trott, P.C., a Michigan corporation (“Trott”). Capitalized terms used but not otherwise defined herein shall have the definitions ascribed to them in the LLC Agreement (defined below).
+RECITALS
+A. Buyer and Sellers, among others, are parties to that certain Amended and Restated Operating Agreement of American Processing Company, LLC, dated as of March 14, 2006, as amended (the “LLC Agreement”).
+B. Sellers own an aggregate 33,675 Common Units of American Processing Company, LLC, a Michigan limited liability company (the “Company”), with each Seller owning the number of Common Units set forth opposite their respective names on the attached Exhibit A.
+C. On the terms and subject to the conditions set forth in this Agreement, Sellers desire to sell to Buyer, and Buyer desires to purchase from Sellers, 33,675 Common Units (the “Purchased Units”).
+AGREEMENT
+In consideration of the foregoing and the mutual covenants, representations, warranties and agreements set forth herein, and for other good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereby agree as follows:
+ARTICLE I
+PURCHASE AND SALE OF UNITS
+1.1. Purchase and Sale. Sellers hereby sell to Buyer, free and clear of any claims, liens, security interests, pledges, charges or encumbrances whatsoever, and Buyer hereby purchases from Sellers, all of the Sellers’ right, title and interest in and to the Purchased Units for an aggregate purchase price of $5,000,000 (the “Purchase Price”), to be paid to Sellers as follows:
+ 
+1
+
+
+ 
+
+
+(a) An aggregate amount equal to Two Million Dollars ($2,000,000), payable to each Seller as set forth on Exhibit A, in immediately available funds by wire transfer to the account specified by each Seller, due and payable in accordance with the following payment schedule (collectively, the “First Cash Payment”):
+(i) One Million Dollars ($1,000,000) on June 1, 2010; and
+(ii) One Million Dollars ($1,000,000) on July 1, 2010.
+(b) An aggregate amount equal to the principal sum of Three Million Dollars ($3,000,000), payable to each Seller as set forth on Exhibit A, plus interest as provided below, in 29 equal monthly installments beginning on August 1, 2010, with each subsequent payment on the first day of each month thereafter (the “Second Cash Payment” and, together with the First Cash Payment, the “Cash Payments”). Interest shall accrue on the unpaid principal balance of the Second Cash Payment at a rate equal to 4.25%. Interest on the unpaid principal balance of the Second Cash Payment shall begin accruing on January 5, 2010, and shall be computed on the basis of actual days elapsed and a year of 360 days. The parties acknowledge and agree that the amortization schedule attached to this Agreement as Exhibit B reflects the aggregate principal and interest payments due and owing the Sellers for the Second Cash Payment described in this paragraph 1.1b.
+Sellers acknowledges that following the consummation of the purchase of the Purchased Units by Buyer, Sellers shall have no further rights with respect to the Purchased Units.
+1.2. Obligations of DM. DM hereby absolutely, irrevocably and unconditionally guarantees to Sellers the payment of the Cash Payments.
+1.3. Default Rights of Sellers. In the event of a breach of Buyer with respect to payment of any portion of the Cash Payments to Sellers and Buyer fails to make such late payment within fifteen (15) calendar days following written notice from the Sellers of such breach, Trott may (but need not) set off the amount of such breach against any payment due to from Trott to the Company under that certain Services Agreement, dated as of March 14, 2006, as amended, between Trott and the Company. Each Seller hereby consents to this right of set off, and acknowledges and agrees that it will receive a direct benefit as a result.
+1.4. Closing. The closing of the transactions that are the subject of this Agreement (the “Closing”) shall be held at the offices of Jaffe, Raitt, Heuer & Weiss, P.C. in Southfield, Michigan, at 10:00 a.m. (Southfield time) on January 4, 2010 or at such other time or place as the parties hereto shall mutually agree (the “Closing Date”).
+1.5. Distributions to Sellers. Sellers and Buyer acknowledge and agree that Sellers are entitled to distributions made by the Company after the Closing with respect to (a) Distributable Cash for each calendar month ending prior to and through December 31, 2009, and (b) tax liability distributions for the 2009 Fiscal Year, in each case pursuant to the LLC Agreement and in accordance with each Seller’s respective Participating Percentage (as it existed just prior to Closing), and the Buyer as Manager, will cause the Company to make such distributions.
+2
+ 
+2
+
+
+ 
+
+
+ARTICLE II
+CLOSING ACTIONS AND DELIVERIES
+At the Closing, the Buyer and the Sellers shall take the following actions and make the following deliveries:
+2.1. Sellers shall deliver certificate(s) evidencing the Purchased Units duly endorsed in blank or accompanied by duly executed assignments separate from certificates;
+2.2. Sellers shall each execute and deliver a non-foreign affidavit dated as of the Closing sworn under penalty of perjury and in form and substance required under the Treasury Regulation pursuant to Section 1445 of the Code stating that such Seller is not a “Foreign Person” as defined in Section 1445 of the Code; and
+2.3. All other documents and instruments contemplated by this Agreement to be delivered at the Closing shall be delivered.
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF SELLERS
+Each Seller, severally and not jointly, hereby represents and warrants to Buyer as of the Closing Date or, if a representation or warranty is made as of a specified date, as of such date, as follows with respect to such Seller (but not with respect to any other Seller):
+3.1 Authority. Such Seller has the requisite power and authority, and if such Seller is a trust, has the requisite trustee powers, to enter into this Agreement and to carry out and perform its obligations under it.
+3.2 Authorization. All action on the part of such Seller necessary for the authorization, execution, delivery and performance by it of this Agreement and the consummation of the transactions contemplated by it has been taken. This Agreement (assuming due authorization, execution and delivery by the other parties to it) constitutes the legal, valid and binding obligations of such Seller, enforceable against it in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforcement of creditors’ rights and as limited by general principles of equity that restrict the availability of specific performance, injunctive relief or other equitable remedies.
+3.3 Title to Units. Such Seller is the record and beneficial owner of the Purchased Units set forth on Exhibit A opposite such Seller’s name, free and clear of any claims, liens, security interests, pledges, charges or encumbrances whatsoever. Such Seller has good and marketable title to the Purchased Units transferred by it under this Agreement, and full right, power and authority to sell such Purchased Units to Buyer as provided in this Agreement. Seller has not granted any option or rights and is not a party to any other agreement that requires (or upon the passage of time, the payment of money, or the occurrence of any other event may require) such Seller to transfer any of the Purchased Units to any Person other than Buyer as contemplated in this Agreement. Upon consummation of the transactions contemplated by this Agreement, Buyer will acquire good and marketable title to the Purchased Units transferred by such Seller, free and clear of all claims, liens, security interests, pledges, charges or encumbrances whatsoever other than those imposed by or through Buyer.
+3
+ 
+3
+
+
+ 
+
+
+3.4 No Violation. Neither the execution and delivery of this Agreement and consummation of the transactions provided for in it, nor the fulfillment by such Seller of the terms of this Agreement will (with or without notice or passage of time or both): (a) violate any law, order, decree, rule or regulation of any Governmental Authority (as defined below) applicable to Seller or (b) result in the breach of any agreement, contract, instrument or other obligation of any kind or nature by which Seller or its properties may be subject or bound. For purposes of this Agreement, “Governmental Authority” means any (i) nation, state, county, city, town, village, district, or other jurisdiction of any nature, (ii) federal, state, local, municipal, foreign, or other government entity, (iii) governmental or quasi-governmental authority of any nature (including any governmental agency, branch, department, official, or other entity and any court or other tribunal), or (iv) body exercising, or entitled or purporting to exercise, any administrative, executive, judicial, legislative, police, regulatory, or taxing authority or power of any nature.
+3.5 Opportunity to Review. Such Seller has received and reviewed all information that it has requested from Buyer and the Company regarding the business, properties, condition (financial and otherwise) and prospects of the Company, such Seller has had the opportunity to make inquiries of management and representatives of the Company as to all such matters, and it has received satisfactory responses to all such inquiries. In making its investment decision to sell the Purchased Units, such Seller has relied on its own investigation and acknowledges that Buyer has made no representations and warranties regarding the Company or Buyer except as expressly provided in this Agreement. Such Seller acknowledges that any future sales of equity in the Company could be at a premium or a discount to the purchase price set forth in this Agreement and such sales could occur at any time or not at all. Such Seller acknowledges that it has been advised, and has had an opportunity, to consult with its own attorney and tax advisor regarding the transaction contemplated by this Agreement.
+3.6 Brokers and Finders. Neither such Seller nor any Person acting on its behalf has incurred any obligation or liability, contingent or otherwise, for brokerage or finders’ fees or agents’ commissions or other similar payment in connection with this Agreement or the transactions contemplated by it.
+3.7 No Consent Required. No consent, notification, approval, order or authorization of, or declaration, filing or registration with, any Person or Governmental Authority is required to be made or obtained by such Seller in connection with the authorization, execution, delivery, performance or lawful completion of this Agreement or the transactions contemplated by it.
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF BUYER
+Buyer hereby represents and warrants to Seller as follows:
+4.1 Organization and Standing. Buyer is a limited liability company duly organized, validly existing and in good standing under the laws of the State of Delaware. Buyer has the requisite legal and company power and authority to carry on its business as it is now being conducted.
+4
+ 
+4
+
+
+ 
+
+
+4.2 Authority. Buyer has the requisite company power and authority to enter into this Agreement and to carry out and perform its obligations under it.
+4.3 Authorization. All company action on the part of Buyer and its equityholders necessary for the authorization, execution, delivery and performance by Buyer of this Agreement, and the consummation of the transactions contemplated by it, has been taken. This Agreement constitutes the legal, valid and binding obligation of Buyer, enforceable against it in accordance with its terms, except as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforcement of creditors’ rights and as limited by general principles of equity that restrict the availability of specific performance, injunctive relief or other equitable remedies.
+4.4 No Violation. Neither the execution and delivery of this Agreement and the consummation of the transactions provided for in it, nor the fulfillment by Buyer of the terms of this Agreement will (with or without notice or passage of time or both): (a) violate any law, order, decree, rule or regulation of any Governmental Authority applicable to Buyer or (b) result in the breach of any agreement, contract, instrument or other obligation of any kind or nature by which Buyer or its properties may be subject or bound.
+4.5 No Consent Required. No consent, notification, approval, order or authorization of, or declaration, filing or registration with, any Person or Governmental Authority is required to be made or obtained by Buyer in connection with the authorization, execution, delivery, performance or lawful completion of this Agreement or the transactions contemplated by it.
+ARTICLE V
+INDEMNIFICATION
+5.1 Each Seller shall save, defend, indemnify and hold harmless Buyer and its affiliates (including the Company), and its and their employees, officers, managers, equityholders, representatives, agents, successors and assigns (collectively, the “Buyer Parties”), from and against any and all losses, liabilities, damages, penalties, fines, expenses, costs and attorneys’ fees (collectively, “Damages”), which any Buyer Party may sustain or become subject to as a result of or relating to any breach by such Seller of any representation or warranty or covenant made by such Seller in this Agreement, such indemnity to be on a several, not joint, basis.
+5.2 Buyer shall save, defend, indemnify and hold harmless Sellers and their affiliates, employees, officers, managers, equityholders, representatives, agents, successors and assigns (collectively, the “Seller Parties,” and together with the Buyer Parties, the “Indemnified Parties”), from and against any Damages, which any Seller Party may sustain or become subject to as a result of or relating to any breach by Buyer of any representation or warranty or warranty made by Buyer in this Agreement.
+5
+ 
+5
+
+
+ 
+
+
+ARTICLE VI
+MISCELLANEOUS
+6.1 Interpretative Matters. Unless the context clearly otherwise requires, (a) all references to Articles or Sections are to Articles and Sections contained in this Agreement, (b) words in the singular or plural include the singular and plural and pronouns stated in either the masculine, the feminine or neuter gender shall include the masculine, feminine and neuter and (c) the use of the word “including” in this Agreement shall be by way of example rather than limitation. The subject headings of Articles and Sections of this Agreement are included for convenience of reference only and shall not affect the construction or interpretation of any of the provisions of this Agreement. All references herein to “Dollars” or “$” are references to currency of the United States of America. The language used in this Agreement will be deemed to be the language chosen by the parties to express their mutual intent, and no rule of strict construction will be applied against any party.
+6.2 Successors and Assigns. All covenants and agreements contained in this Agreement by or on behalf of any of the parties will bind and inure to the benefit of the respective successors and assigns of the parties, whether so expressed or not.
+6.3 Notices. Any notices, consents or other communication required or desired to be sent or given under this Agreement by any of the parties shall in every case be in writing and shall be deemed properly served if (a) delivered personally or (b) delivered by a recognized overnight courier service, to the parties at the addresses as set forth below or at such other addresses as may be furnished in writing:
+If to a Seller, to the address of such seller set forth on Exhibit A.
+with a copy to (which shall not constitute notice):
+Jaffe, Raitt, Heuer & Weiss, P.C.
+27777 Franklin Road, Suite 2500
+Southfield, Michigan 48034
+Attn: William E. Sider
+If to Buyer, to:
+Dolan APC, LLC
+c/o Dolan Media Company
+222 South Ninth Street, Suite 2300
+Minneapolis, Minnesota 55402
+Attn: James P. Dolan
+6
+ 
+6
+
+
+ 
+
+
+6.4 Governing Law. All questions concerning the construction, validity and interpretation of this Agreement, and the performance of the obligations imposed by this Agreement, shall be governed by the laws of the State of Michigan without regard to any principles of conflicts of laws.
+6.5 Third Parties. Nothing in this Agreement expressed or implied is intended or shall be construed to confer upon or give to any Person, other than the parties to this Agreement and their respective permitted successors and assigns and the Indemnified Parties, any rights or remedies under or by reason of this Agreement.
+6.6 Further Assurances. Sellers shall execute such further documents, and perform such further acts, as may be reasonably requested by Buyer in order to evidence the transfer and convey all the Purchased Units to Buyer on the terms contained herein, and to otherwise comply with the terms of this Agreement and consummate the transactions contemplated by it. Sellers acknowledge and agree that this Agreement and the terms of it, may be required to be filed or disclosed pursuant to securities laws applicable to Buyer, DM or its Affiliates.
+6.7 Entire Agreement. This Agreement constitutes the complete and entire agreement of the parties concerning the matters referred to in it, and supersedes all prior agreements and understandings, whether written or oral.
+6.8 Amendment and Waiver. Any provision of this Agreement may be amended or waived if, but only if, such amendment or waiver is in writing and is signed, in the case of an amendment, by each party to this Agreement, or in the case of a waiver, by the party against whom the waiver is to be effective. No failure or delay by any party in exercising any right, power or privilege under this Agreement shall operate as a waiver of it nor shall any single or partial exercise of it preclude any other or further exercise of it or the exercise of any other right, power or privilege.
+6.9 Execution in Counterparts. This Agreement may be executed in any number of counterparts, each of which when so executed and delivered shall be deemed an original, and such counterparts together shall constitute one instrument. This Agreement, and any amendments to it, to the extent signed and delivered by means of a facsimile machine or email of a PDF file, shall be treated in all manner and respects as an original agreement and shall be considered to have the same binding legal effect as if it were the original signed version of it delivered in person. At the request of any party, any other party shall re-execute original forms and deliver them to such requesting party. No party shall raise the use of a facsimile machine or e-mail of a PDF file to deliver a signature or the fact that any signature or agreement or instrument was transmitted or communicated through the use of a facsimile machine or e-mail of a PDF file as a defense to the formation or enforceability of a contract and each such party forever waives any such defense.
+[Signatures on the following page]
+
+7
+ 
+7
+
+
+ 
+
+
+The parties have executed this Agreement on the date first set forth above.
+SELLERS:
+/s/ David A. Trott                                         
+DAVID A. TROTT
+/s/ Ellen Coon                                              
+ELLEN COON, TRUSTEE OF THE
+ELLEN COON LIVING TRUST
+U/A/D 9/9/98
+/s/ Marcy J. Ford                                         
+MARCY J. FORD, TRUSTEE OF THE
+MARCY FORD REVOCABLE TRUST
+U/A/D 7/12/04
+/s/ William D. Meagher                               
+WILLIAM D. MEAGHER, TRUSTEE OF
+THE WILLIAM D. MEAGHER TRUST
+U/A/D 8/24/07
+/s/ Jeanne M. Kivi                                        
+JEANNE M. KIVI, TRUSTEE OF THE
+JEANNE M. KIVI TRUST U/A/D 8/24/07
+BUYER:
+DOLAN APC LLC
+By: /s/ James P. Dolan                                
+Print Name: James P. Dolan
+Its: President
+[Signatures continued on the following page]
+ 
+8
+
+
+ 
+
+
+[Continuation of signature page to Common Unit Purchase Agreement]
+DM:
+DOLAN MEDIA COMPANY
+By: /s/James P. Dolan                                   
+Print Name: James P. Dolan
+Its: Chairman, CEO and President
+TROTT:
+TROTT & TROTT, P.C.
+By: /s/ David A. Trott                                   
+Print Name: David A. Trott
+Its: President
+
+ 
+9
+
+
+ 
+
+
+EXHIBIT A
+SELLER ALLOCATION
+ 
+10
+
+
+ 
+
+
+EXHIBIT B
+AMORTIZATION SCHEDULE FOR SECOND CASH PAYMENT
+ 
+11
